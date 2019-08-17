@@ -4,7 +4,6 @@ title: Sobre mim
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
-url: "https://anasaliba.github.io/about/"
 ---
 
 <center><a href="https://anasaliba.github.io"><b>Ana</b></a>  ou  Saliba !</center>
