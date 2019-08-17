@@ -10,7 +10,7 @@ comments: false
 
 ## Features
 * Minimal, you can focus on your content
-* Responsive
+* Responsável
 * Disqus integration
 * Syntax highlighting
 * Optional post image
