@@ -28,7 +28,7 @@ comments: false
     https://avatars0.githubusercontent.com/u/53825541?s=400&u=1d20f4269bc8f3717cf38e61d05c37ea58ae799e&v=4
     https://drive.google.com/drive/folders/1O5E0fAMUvmvKNeXDoF30n5KXpCSM96Sr
 {% endcapture %}
-feature: /assets/img/opinioes.png
+D:\Documents\github\anasaliba.github.io\assets\img\opinioes.png
 
 {% include gallery images=images caption="" cols=2 %}
 
