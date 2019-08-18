@@ -15,7 +15,7 @@ comments: false
 * Persistente
 * Preocupada          
 * Meiga
-* Gente Boa          
+* Gente Boa           
 * Detalhista
 * Extrovertida       
 * Engraçada
