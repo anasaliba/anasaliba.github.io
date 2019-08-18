@@ -14,7 +14,7 @@ comments: false
 * Preocupada         * Meiga
 * Gente Boa          * Detalhista
 * Extrovertida       * Engraçada
-* Simpática          * Amiga
+* Simpática          * Amiga 
 
 ## Essa sou eu, definida pelos meus amigos  =)
 
