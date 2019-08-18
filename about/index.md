@@ -9,12 +9,18 @@ comments: false
 <center><a href="https://anasaliba.github.io"><b>Ana</b></a>  ou  Saliba !</center>
 
 ## Características
-* Sincera            * Gentil
-* Verdadeira         * Persistente
-* Preocupada         * Meiga
-* Gente Boa          * Detalhista
-* Extrovertida       * Engraçada
-* Simpática          * Amiga 
+* Sincera            
+* Gentil
+* Verdadeira        
+* Persistente
+* Preocupada         
+* Meiga
+* Gente Boa          
+* Detalhista
+* Extrovertida       
+* Engraçada
+* Simpática          
+* Amiga 
 
 ## Essa sou eu, definida pelos meus amigos  =)
 
