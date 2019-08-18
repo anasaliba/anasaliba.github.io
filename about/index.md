@@ -26,9 +26,10 @@ comments: false
 
 {% capture images %}
     https://i.pinimg.com/originals/40/68/37/406837d19a1eecc1a84ff969c917652e.jpg
+    https://www.otempo.com.br/image/contentid/policy:1.2058125:1540244357/Ana%20Carolina%20Saliba06.jpg?f=3x2&q=0.6&w=620&$p$f$q$w=9daa8b7
     https://avatars0.githubusercontent.com/u/53825541?s=400&u=1d20f4269bc8f3717cf38e61d05c37ea58ae799e&v=4
     https://i.pinimg.com/originals/de/75/6c/de756c082abb08a13c2672f278c62060.jpg
-    https://www.otempo.com.br/image/contentid/policy:1.2058125:1540244357/Ana%20Carolina%20Saliba06.jpg?f=3x2&q=0.6&w=620&$p$f$q$w=9daa8b7
+    
     
     
 {% endcapture %}
