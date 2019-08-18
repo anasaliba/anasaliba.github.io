@@ -25,8 +25,7 @@ comments: false
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    D:\Desktop\pic\1111.PNG
-    D:\Documents\github\anasaliba.github.io\assets\img\oficial opinioes.png
+    'assets\img\oficial opinioes.png'
 {% endcapture %}
 {% include gallery images=images caption="" cols=2 %}
 
