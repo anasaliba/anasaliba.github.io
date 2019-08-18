@@ -9,22 +9,16 @@ comments: false
 <center><a href="https://anasaliba.github.io"><b>Ana</b></a>  ou  Saliba !</center>
 
 ## Características
-* Sincera
-* Gentil
-* Verdadeira
-* Persistente
-* Preocupada
-* Meiga
-* Gente Boa
-* Detalhista
-* Extrovertida
-* Engraçada
-* Simpática
+* Sincera            * Gentil
+* Verdadeira         * Persistente
+* Preocupada         * Meiga
+* Gente Boa          * Detalhista
+* Extrovertida       * Engraçada
+* Simpática          * Amiga
 
-## Essa sou eu, definida pelos meus amigos =)
+## Essa sou eu, definida pelos meus amigos  =)
 
 {% capture images %}
-    https://yt3.ggpht.com/a-/AAuE7mB1SibWLMhSnaNgFVxk9IMEjGgFmmAUgOiFUg=s900-mo-c-c0xffffffff-rj-k-no
     https://avatars0.githubusercontent.com/u/53825541?s=400&u=1d20f4269bc8f3717cf38e61d05c37ea58ae799e&v=4
     https://www.otempo.com.br/image/contentid/policy:1.2058125:1540244357/Ana%20Carolina%20Saliba06.jpg?f=3x2&q=0.6&w=620&$p$f$q$w=9daa8b7
 {% endcapture %}
