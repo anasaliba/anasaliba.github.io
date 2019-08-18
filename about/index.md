@@ -24,9 +24,8 @@ comments: false
 ## Essa sou eu, definida pelos meus amigos =)
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://yt3.ggpht.com/a-/AAuE7mB1SibWLMhSnaNgFVxk9IMEjGgFmmAUgOiFUg=s900-mo-c-c0xffffffff-rj-k-no
     https://avatars0.githubusercontent.com/u/53825541?s=400&u=1d20f4269bc8f3717cf38e61d05c37ea58ae799e&v=4
-    https://www.otempo.com.br/hotsites/garoto-e-garota-super-2018/participantes/participantes-7.6122057/ana-carolina-1.2057769/ana-carolina-1.2058273
     https://www.otempo.com.br/image/contentid/policy:1.2058125:1540244357/Ana%20Carolina%20Saliba06.jpg?f=3x2&q=0.6&w=620&$p$f$q$w=9daa8b7
 {% endcapture %}
 {% include gallery images=images caption="" cols=2 %}
