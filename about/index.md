@@ -26,10 +26,8 @@ comments: false
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://avatars0.githubusercontent.com/u/53825541?s=400&u=1d20f4269bc8f3717cf38e61d05c37ea58ae799e&v=4
-    https://drive.google.com/drive/folders/1O5E0fAMUvmvKNeXDoF30n5KXpCSM96Sr
+   https://www.otempo.com.br/hotsites/garoto-e-garota-super-2018/participantes/participantes-7.6122057/ana-carolina-1.2057769/ana-carolina-1.2058273
 {% endcapture %}
-D:\Documents\github\anasaliba.github.io\assets\img\opinioes.png
-
 {% include gallery images=images caption="" cols=2 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
