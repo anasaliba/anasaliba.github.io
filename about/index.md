@@ -8,19 +8,20 @@ comments: false
 
 <center><a href="https://anasaliba.github.io"><b>Ana</b></a>  ou  Saliba !</center>
 
-## Features
-* Parceira
-* Responsável
-* D
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Características
+* Sincera
+* Gentil
+* Verdadeira
+* Persistente
+* Preocupada
+* Meiga
+* Gente Boa
+* Detalhista
+* Extrovertida
+* Engraçada
+* Simpática
 
-## Preview
+## Essa sou eu, definida pelos meus amigos =)
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
