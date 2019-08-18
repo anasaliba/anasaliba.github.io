@@ -13,7 +13,7 @@ comments: false
 * Gentil
 * Verdadeira        
 * Persistente
-* Preocupada         
+* Preocupada          
 * Meiga
 * Gente Boa          
 * Detalhista
