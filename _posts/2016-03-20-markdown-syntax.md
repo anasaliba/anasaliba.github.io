@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  "Ana"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "A Vida"
+date:   2019/08/18
+excerpt: "Um pouco sobre mim e minha trajetória"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
 comments: true
 ---
 
-## HTML Elements
+## Um pouco sobre mim e minha trajetória
+# Primeira postagem
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1
+
+
 
 ## Heading 2
 
