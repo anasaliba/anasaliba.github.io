@@ -18,7 +18,7 @@ comments: false
 * Gente Boa           
 * Detalhista
 * Extrovertida       
-* Engraçada
+* Engraçada 
 * Simpática          
 * Amiga 
 
