@@ -1,13 +1,13 @@
 # Site navigation links
 - title: Home
-  url: /
+  url: https://anasaliba.github.io/
   
 - title: Projects
-  url: /projects/
+  url: https://anasaliba.github.io/projects/
 
 - title: Sobre mim
   url: https://anasaliba.github.io/about/
 
 - title: Posts
-  url: /Posts/
+  url: https://anasaliba.github.io/Posts/
   
