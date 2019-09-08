@@ -8,7 +8,6 @@ output:
   
 ---
 
-
 # Um pouco sobre mim e minha trajetória
 <p style= "text-aling: justify;">
 
