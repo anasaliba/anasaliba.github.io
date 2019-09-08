@@ -8,9 +8,8 @@ output:
   
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
+
 
 ## Um pouco sobre mim e minha trajetória
 <p style= "text-aling: justify;">
