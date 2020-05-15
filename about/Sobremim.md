@@ -9,7 +9,7 @@ comments: false
 <center><a href="https://anasaliba.github.io"><b>Ana</b></a>  ou  Saliba !</center>
 
 ## Características
-* Sincera            
+* Sincera             
 * Gentil
 * Verdadeira        
 * Persistente
