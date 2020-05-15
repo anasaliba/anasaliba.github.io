@@ -1,12 +1,7 @@
 ---
-title: "Minha família"
-author: "Ana Carolina Saliba"
-date: "15/05/2020"
-output: html_document
+layout : post
+title : Minhas Publicações
+trecho : "posts"
+Comentários : falso
+
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-Booooom diaaaaa
