@@ -35,4 +35,3 @@ comments: false
     
 {% endcapture %}
 {% include gallery images=images caption="" cols=2 %}
-
