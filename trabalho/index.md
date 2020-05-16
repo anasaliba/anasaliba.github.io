@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : project
 title : Minhas Profissões
 trecho : "posts"
 Comentários : false
