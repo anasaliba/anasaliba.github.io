@@ -5,10 +5,10 @@ trecho : "posts"
 Comentários : falso
 
 ---
-1ª Publicação
+## 1ª Publicação
 
 Um pouco de quem sou eu...
 
-<a href="#" class="btn btn-success">Success Button</a>
+<a href="#" class="btn btn-success">CLIQUE PARA LER MAIS</a>
 
-2ªpublicação
+## 2ªpublicação
