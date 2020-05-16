@@ -1,5 +1,5 @@
 ---
-layout : page
+layout : post
 title : Minhas Publicações
 trecho : "posts"
 Comentários : falso
