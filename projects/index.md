@@ -21,7 +21,7 @@ comments: false
             <div class="content">
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{https://anasaliba.github.io/}}">
+                    <a class="btn zoombtn" href="https://anasaliba.github.io/">
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
