@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Troca o nome do Syntax
-date: 2013-08-16
+date: 2020-05-17
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
 comments: true
