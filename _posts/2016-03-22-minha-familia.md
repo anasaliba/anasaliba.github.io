@@ -1,9 +1,15 @@
 ---
 layout: post
-title: "MINHA FAMÍLIA"
-date: 15/05/2020
+title: "MINHA FAMï¿½LIA"
+date: 2020-05-15
 excerpt: "O meu maior tesouro"
-tags: [sample post, readability, test]
+project: true
+tag:
+- jekyll 
+- moon
+- blog
+- about
+- theme
 comments: true
 ---
 
