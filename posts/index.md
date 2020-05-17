@@ -50,7 +50,7 @@ Comentários : falso
 
 ## 1ª Publicação
 
-Um pouco de quem sou eu...
+Um pouco de quem sou eu... 
 
 <a href="https://anasaliba.github.io/trabalho/" class="btn btn-success">CLIQUE PARA LER MAIS</a>
 
