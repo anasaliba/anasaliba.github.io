@@ -1,17 +1,13 @@
 ---
-layout : post-list
-title : Minhas Profissões
+layout : page
+title : Fisioterapia
 trecho : "posts"
 Comentários : false
 
 ---
 
 
-## Professora de Matemática
 
-
-.
-
-## Fisioterapeuta 
+## A jornada de uma fisioterapeuta 
 
 <a href="https://anasaliba.github.io/trabalho/fisioterapia/" class="btn btn-success">CLIQUE PARA LER MAIS</a>
