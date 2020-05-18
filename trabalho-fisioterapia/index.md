@@ -1,6 +1,6 @@
 ---
 layout : page
-title : Matemática
+title : Fisioterapia
 trecho : "posts"
 Comentários : false
 
@@ -8,8 +8,8 @@ Comentários : false
 
 
 
-## A jornada de uma licencianda em Matemática
+## A jornada de uma Fisioterapeuta em construção
 
 <a href="#" class="btn">CLIQUE PARA LER MAIS</a>
 
-MATEMÁTICA
+FISIOTERAPIA
