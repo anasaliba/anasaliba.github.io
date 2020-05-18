@@ -1,5 +1,5 @@
 ---
-layout : Post
+layout : page
 title : Fisioterapia
 trecho : "posts"
 Comentários : false
