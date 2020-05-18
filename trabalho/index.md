@@ -1,13 +1,8 @@
 ---
-layout : page
-title : Fisioterapia
+layout : post-list
+title : Trabalho
 trecho : "posts"
 Comentários : false
 
 ---
 
-
-
-## A jornada de uma fisioterapeuta 
-
-<a href="#" class="btn">CLIQUE PARA LER MAIS</a>
